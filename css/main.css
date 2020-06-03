@@ -1,0 +1,63 @@
+body {
+  background-color: #4EA8DE;
+  font-family: 'Manrope', sans-serif;
+}
+
+#header{
+  max-width: 500px;
+  margin:auto;
+  font-size: 200%;
+  font-weight: bolder;
+  color: #7400B8;
+}
+
+#maindiv{
+  max-width: 800px;
+  margin:auto;
+  padding-top: 30px;
+  column-count: 2;
+}
+
+#btnsdiv{
+  padding-left: 10px;
+  float: middle;
+  height: 400px;
+  color: #7400B8;
+  font-weight: bolder;
+}
+
+#uploadinput{
+  padding-top: 0px;
+  padding-bottom: 15px;
+}
+
+#imagecanvas{
+  border: thick;
+  border-color: #7400B8;
+  border-style: solid;
+  border-width: 5px;
+}
+
+#trinitybtn{
+  background-color: #56CFE1;
+  border-color: #7400B8;
+  font-weight: bolder;
+  color: #7400B8;
+}
+
+#imagediv{
+  padding: 0px;
+  width: 400px;
+  height: 400px;
+  
+}
+
+#image{
+  width: 400px;
+  height: 400px;
+  border: thick;
+  border-color: mintcream;
+  border-style: solid;
+  border-width: 5px;
+}
+
